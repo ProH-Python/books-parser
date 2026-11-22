@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated data (раскомментируй, если не хочешь заливать результаты в Git)
+# *.db
+# *.csv
+# *.xlsx
